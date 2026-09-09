@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,price,rating,stock,discount,discount_amount,final_price
+101,MacBook Air M3 1,Laptop,Apple,114900,4.0,4,5,5745.0,109155.0
+102,Inspiron 15 2,Mobile,Dell,68500,4.1,11,8,5480.0,63020.0
+103,ThinkPad E14 3,Headphones,Lenovo,78990,4.2,18,10,7899.0,71091.0
+104,Pavilion Plus 4,Keyboard,HP,76999,4.3,25,12,9239.88,67759.12
+105,Zenbook 14 5,Monitor,Asus,99999,4.4,32,15,14999.85,84999.15
+106,Galaxy S24 6,Tablet,Samsung,74999,4.5,39,18,13499.82,61499.18
+107,Xiaomi 14 7,Accessories,Sony,69999,4.6,46,20,13999.8,55999.2
+108,WH-1000XM5 8,Laptop,Logitech,29990,4.7,6,25,7497.5,22492.5
+109,MX Keys 9,Mobile,OnePlus,10995,4.8,13,5,549.75,10445.25
+110,UltraGear 27 10,Headphones,Xiaomi,49999,4.0,20,8,3999.92,45999.08
+111,iPad Air 11,Keyboard,Bose,59900,4.1,27,10,5990.0,53910.0
+112,USB-C Hub 12,Monitor,Acer,4999,4.2,34,12,599.88,4399.12
+113,Pixel 8 13,Tablet,Anker,75999,4.3,41,15,11399.85,64599.15
+114,Tune 770NC 14,Accessories,Google,8999,4.4,48,18,1619.82,7379.18
+115,BlackWidow V3 15,Laptop,JBL,12999,4.5,8,20,2599.8,10399.2
+116,Surface Laptop 16,Mobile,Razer,124999,4.6,15,25,31249.75,93749.25
+117,Power Bank 17,Headphones,Microsoft,2999,4.7,22,5,149.95,2849.05
+118,Wireless Mouse 18,Keyboard,Apple,2499,4.8,29,8,199.92,2299.08
+119,MacBook Air M3 19,Monitor,Dell,115900,4.0,36,10,11590.0,104310.0
+120,Inspiron 15 20,Tablet,Lenovo,69500,4.1,43,12,8340.0,61160.0
+121,ThinkPad E14 21,Accessories,HP,79990,4.2,50,15,11998.5,67991.5
+122,Pavilion Plus 22,Laptop,Asus,77999,4.3,10,18,14039.82,63959.18
+123,Zenbook 14 23,Mobile,Samsung,100999,4.4,17,20,20199.8,80799.2
+124,Galaxy S24 24,Headphones,Sony,75999,4.5,24,25,18999.75,56999.25
+125,Xiaomi 14 25,Keyboard,Logitech,70999,4.6,31,5,3549.95,67449.05
+126,WH-1000XM5 26,Monitor,OnePlus,30990,4.7,38,8,2479.2,28510.8
+127,MX Keys 27,Tablet,Xiaomi,11995,4.8,45,10,1199.5,10795.5
+128,UltraGear 27 28,Accessories,Bose,50999,4.0,5,12,6119.88,44879.12
+129,iPad Air 29,Laptop,Acer,60900,4.1,12,15,9135.0,51765.0
+130,USB-C Hub 30,Mobile,Anker,5999,4.2,19,18,1079.82,4919.18
+131,Pixel 8 31,Headphones,Google,76999,4.3,26,20,15399.8,61599.2
+132,Tune 770NC 32,Keyboard,JBL,9999,4.4,33,25,2499.75,7499.25
+133,BlackWidow V3 33,Monitor,Razer,13999,4.5,40,5,699.95,13299.05
+134,Surface Laptop 34,Tablet,Microsoft,125999,4.6,47,8,10079.92,115919.08
+135,Power Bank 35,Accessories,Apple,3999,4.7,7,10,399.9,3599.1
+136,Wireless Mouse 36,Laptop,Dell,3499,4.8,14,12,419.88,3079.12
+137,MacBook Air M3 37,Mobile,Lenovo,116900,4.0,21,15,17535.0,99365.0
+138,Inspiron 15 38,Headphones,HP,70500,4.1,28,18,12690.0,57810.0
+139,ThinkPad E14 39,Keyboard,Asus,80990,4.2,35,20,16198.0,64792.0
+140,Pavilion Plus 40,Monitor,Samsung,78999,4.3,42,25,19749.75,59249.25
+141,Zenbook 14 41,Tablet,Sony,101999,4.4,49,5,5099.95,96899.05
+142,Galaxy S24 42,Accessories,Logitech,76999,4.5,9,8,6159.92,70839.08
+143,Xiaomi 14 43,Laptop,OnePlus,71999,4.6,16,10,7199.9,64799.1
+144,WH-1000XM5 44,Mobile,Xiaomi,31990,4.7,23,12,3838.8,28151.2
+145,MX Keys 45,Headphones,Bose,12995,4.8,30,15,1949.25,11045.75
+146,UltraGear 27 46,Keyboard,Acer,51999,4.0,37,18,9359.82,42639.18
+147,iPad Air 47,Monitor,Anker,61900,4.1,44,20,12380.0,49520.0
+148,USB-C Hub 48,Tablet,Google,6999,4.2,4,25,1749.75,5249.25
+149,Pixel 8 49,Accessories,JBL,77999,4.3,11,5,3899.95,74099.05
+150,Tune 770NC 50,Laptop,Razer,10999,4.4,18,8,879.92,10119.08

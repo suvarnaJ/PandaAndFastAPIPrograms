@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,price,rating,stock,discount
+101,MacBook Air M3 1,Laptop,Apple,114900,4.0,4,5
+102,Inspiron 15 2,Mobile,Dell,68500,4.1,11,8
+103,ThinkPad E14 3,Headphones,Lenovo,78990,4.2,18,10
+104,Pavilion Plus 4,Keyboard,HP,76999,4.3,25,12
+105,Zenbook 14 5,Monitor,Asus,99999,4.4,32,15
+106,Galaxy S24 6,Tablet,Samsung,74999,4.5,39,18
+107,Xiaomi 14 7,Accessories,Sony,69999,4.6,46,20
+108,WH-1000XM5 8,Laptop,Logitech,29990,4.7,6,25
+109,MX Keys 9,Mobile,OnePlus,10995,4.8,13,5
+110,UltraGear 27 10,Headphones,Xiaomi,49999,4.0,20,8
+111,iPad Air 11,Keyboard,Bose,59900,4.1,27,10
+112,USB-C Hub 12,Monitor,Acer,4999,4.2,34,12
+113,Pixel 8 13,Tablet,Anker,75999,4.3,41,15
+114,Tune 770NC 14,Accessories,Google,8999,4.4,48,18
+115,BlackWidow V3 15,Laptop,JBL,12999,4.5,8,20
+116,Surface Laptop 16,Mobile,Razer,124999,4.6,15,25
+117,Power Bank 17,Headphones,Microsoft,2999,4.7,22,5
+118,Wireless Mouse 18,Keyboard,Apple,2499,4.8,29,8
+119,MacBook Air M3 19,Monitor,Dell,115900,4.0,36,10
+120,Inspiron 15 20,Tablet,Lenovo,69500,4.1,43,12
+121,ThinkPad E14 21,Accessories,HP,79990,4.2,50,15
+122,Pavilion Plus 22,Laptop,Asus,77999,4.3,10,18
+123,Zenbook 14 23,Mobile,Samsung,100999,4.4,17,20
+124,Galaxy S24 24,Headphones,Sony,75999,4.5,24,25
+125,Xiaomi 14 25,Keyboard,Logitech,70999,4.6,31,5
+126,WH-1000XM5 26,Monitor,OnePlus,30990,4.7,38,8
+127,MX Keys 27,Tablet,Xiaomi,11995,4.8,45,10
+128,UltraGear 27 28,Accessories,Bose,50999,4.0,5,12
+129,iPad Air 29,Laptop,Acer,60900,4.1,12,15
+130,USB-C Hub 30,Mobile,Anker,5999,4.2,19,18
+131,Pixel 8 31,Headphones,Google,76999,4.3,26,20
+132,Tune 770NC 32,Keyboard,JBL,9999,4.4,33,25
+133,BlackWidow V3 33,Monitor,Razer,13999,4.5,40,5
+134,Surface Laptop 34,Tablet,Microsoft,125999,4.6,47,8
+135,Power Bank 35,Accessories,Apple,3999,4.7,7,10
+136,Wireless Mouse 36,Laptop,Dell,3499,4.8,14,12
+137,MacBook Air M3 37,Mobile,Lenovo,116900,4.0,21,15
+138,Inspiron 15 38,Headphones,HP,70500,4.1,28,18
+139,ThinkPad E14 39,Keyboard,Asus,80990,4.2,35,20
+140,Pavilion Plus 40,Monitor,Samsung,78999,4.3,42,25
+141,Zenbook 14 41,Tablet,Sony,101999,4.4,49,5
+142,Galaxy S24 42,Accessories,Logitech,76999,4.5,9,8
+143,Xiaomi 14 43,Laptop,OnePlus,71999,4.6,16,10
+144,WH-1000XM5 44,Mobile,Xiaomi,31990,4.7,23,12
+145,MX Keys 45,Headphones,Bose,12995,4.8,30,15
+146,UltraGear 27 46,Keyboard,Acer,51999,4.0,37,18
+147,iPad Air 47,Monitor,Anker,61900,4.1,44,20
+148,USB-C Hub 48,Tablet,Google,6999,4.2,4,25
+149,Pixel 8 49,Accessories,JBL,77999,4.3,11,5
+150,Tune 770NC 50,Laptop,Razer,10999,4.4,18,8
