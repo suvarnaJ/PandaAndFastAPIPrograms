@@ -1,0 +1,106 @@
+customer_id,name,age,city,email,purchase_amount,rating
+C001,manish gupta ,47, Pune ,customer1@example.com,12322.76,1
+C002,Neha joshi  ,51,mumbai ,customer2@example.com,20677.93,4.5
+C003, amit kumar,53, Pune ,customer3@example.com,12507.1,1
+C004,Neha joshi  ,22,hyderabad ,customer4@example.com,10799.71,2
+C005,manish gupta ,44,hyderabad ,customer5@example.com,10820.97,4.5
+C006,ROHIT MEHTA,31,mumbai ,customer6@example.com,17303.61,4.5
+C007, pooja deshmukh,49, pune,customer7@example.com,19312.03,2
+C008,  arjun singh,44,  delhi,customer8@example.com,1584.39,1
+C009,Neha joshi  ,32, pune,customer9@example.com,23554.56,3
+C010,KAVITA SHAH,35,hyderabad ,customer10@example.com,8201.91,5
+C011,  arjun singh,50, CHENNAI,,2092.36,5
+C012, pooja deshmukh,30,Pune,customer12@example.com,21133.29,4
+C013,,22, Pune ,customer13@example.com,12666.79,5
+C014,PRIYA PATIL ,25,Pune,customer14@example.com,,5
+C015, pooja deshmukh,29,  delhi,customer15@example.com,3266.43,1
+C016,  arjun singh,32, pune,customer16@example.com,23718.5,
+C017,SNEHA KULKARNI ,35,,customer17@example.com,17179.34,2
+C018,manish gupta ,31,Pune,customer18@example.com,21689.62,3
+C019,  arjun singh,unknown, BANGALORE,customer19@example.com,16680.33,2
+C020, amit kumar,42,mumbai ,customer20@example.com,8537.57,2
+C021,  rahul sharma,22,Pune,customer21@example.com,Rs.8625.6,3
+C022,Neha joshi  ,36,MUMBAI,,11477.37,5
+C023, amit kumar,51, CHENNAI,customer23@example.com,16997.15,2
+C024,KAVITA SHAH,53, BANGALORE,customer24@example.com,12323.57,4
+C025,PRIYA PATIL ,51, pune,customer25@example.com,17020.21,4
+C026,,54, CHENNAI,customer26@example.com,14830.91,5
+C027,SNEHA KULKARNI ,30,mumbai ,customer27@example.com,14188.64,1
+C028,SNEHA KULKARNI ,20, Pune ,customer28@example.com,,1
+C029,  rahul sharma,25,hyderabad ,customer29@example.com,4224.3,5
+C030,  arjun singh,28,mumbai ,customer30@example.com,11736.69,4
+C031,KAVITA SHAH,41,mumbai ,customer31@example.com,18292.27,4.5
+C032,  arjun singh,41, CHENNAI,customer32@example.com,16413.46,
+C033, amit kumar,40,Delhi ,,15668.24,4.5
+C034,Neha joshi  ,56,,customer34@example.com,20820.87,4
+C035,  rahul sharma,38,MUMBAI,customer35@example.com,11166.24,2
+C036,ROHIT MEHTA,22,MUMBAI,customer36@example.com,15132.52,5
+C037,PRIYA PATIL ,30, BANGALORE,customer37@example.com,16915.03,2
+C038, pooja deshmukh,unknown,  delhi,customer38@example.com,23029.7,2
+C039,,25, pune,customer39@example.com,14991.11,4
+C040,Neha joshi  ,39,MUMBAI,customer40@example.com,22244.58,4
+C041,KAVITA SHAH,48, CHENNAI,customer41@example.com,16769.8,5
+C042,Neha joshi  ,58, BANGALORE,customer42@example.com,,4.5
+C043,  rahul sharma,47,Delhi ,customer43@example.com,15439.44,4
+C044,Neha joshi  ,47,MUMBAI,,20029.42,1
+C045, pooja deshmukh,43, BANGALORE,customer45@example.com,11693.41,2
+C046,ROHIT MEHTA,38,mumbai ,customer46@example.com,12909.42,5
+C047,ROHIT MEHTA,48, CHENNAI,customer47@example.com,16167.72,3
+C048,ROHIT MEHTA,48,mumbai ,customer48@example.com,21405.27,
+C049,  arjun singh,54,MUMBAI,customer49@example.com,18136.27,4.5
+C050,SNEHA KULKARNI ,58, pune,customer50@example.com,24812.56,4.5
+C051,manish gupta ,58,,customer51@example.com,21258.52,3
+C052,,40,  delhi,customer52@example.com,16460.7,1
+C053,SNEHA KULKARNI ,43,  delhi,customer53@example.com,7416.89,2
+C054,Neha joshi  ,39, pune,customer54@example.com,2838.6,1
+C055,Neha joshi  ,24,  delhi,,23803.02,2
+C056,manish gupta ,48,  delhi,customer56@example.com,,5
+C057,  rahul sharma,unknown, CHENNAI,customer57@example.com,8813.94,5
+C058,Neha joshi  ,56,Pune,customer58@example.com,19219.02,3
+C059,  rahul sharma,23,  delhi,customer59@example.com,1395.49,3
+C060,SNEHA KULKARNI ,58,hyderabad ,customer60@example.com,16139.77,2
+C061,PRIYA PATIL ,42,  delhi,customer61@example.com,24996.03,1
+C062,KAVITA SHAH,42,Pune,customer62@example.com,2661.07,4
+C063,manish gupta ,23,hyderabad ,customer63@example.com,Rs.4064.97,4
+C064,  arjun singh,48,  delhi,customer64@example.com,18202.7,
+C065,,47,hyderabad ,customer65@example.com,20646.46,3
+C066,KAVITA SHAH,49,Pune,,10011.87,1
+C067,SNEHA KULKARNI ,22, pune,customer67@example.com,23338.98,2
+C068,Neha joshi  ,47,,customer68@example.com,24379.11,3
+C069,KAVITA SHAH,23, CHENNAI,customer69@example.com,15332.42,2
+C070,ROHIT MEHTA,23,Delhi ,customer70@example.com,,1
+C071,manish gupta ,31,hyderabad ,customer71@example.com,7914.55,1
+C072,SNEHA KULKARNI ,47,  delhi,customer72@example.com,2404.66,2
+C073,  arjun singh,30, pune,customer73@example.com,10437.87,4
+C074, pooja deshmukh,31, Pune ,customer74@example.com,20917.38,2
+C075,manish gupta ,29, CHENNAI,customer75@example.com,13077.22,4.5
+C076,SNEHA KULKARNI ,unknown,MUMBAI,customer76@example.com,24013.6,1
+C077,Neha joshi  ,47,MUMBAI,,18181.49,3
+C078,,26,Pune,customer78@example.com,8966.77,5
+C079,manish gupta ,58,mumbai ,customer79@example.com,6491.12,3
+C080,  rahul sharma,44, pune,customer80@example.com,17488.52,
+C081,KAVITA SHAH,26,mumbai ,customer81@example.com,14635.57,4
+C082,manish gupta ,38,Delhi ,customer82@example.com,9208.94,2
+C083,manish gupta ,53,Pune,customer83@example.com,1139.55,4
+C084,  rahul sharma,47, Pune ,customer84@example.com,,2
+C085,  rahul sharma,40,,customer85@example.com,15820.61,2
+C086,  rahul sharma,28,Delhi ,customer86@example.com,7585.44,2
+C087,Neha joshi  ,44,Delhi ,customer87@example.com,15560.23,5
+C088,manish gupta ,55, CHENNAI,,19142.71,2
+C089,  rahul sharma,21,MUMBAI,customer89@example.com,21044.96,4.5
+C090, amit kumar,44,MUMBAI,customer90@example.com,2151.52,4.5
+C091,,59, pune,customer91@example.com,10832.84,1
+C092,KAVITA SHAH,23, pune,customer92@example.com,17717.31,5
+C093,  arjun singh,41,mumbai ,customer93@example.com,5050.79,4
+C094,  arjun singh,43,mumbai ,customer94@example.com,16816.12,2
+C095,ROHIT MEHTA,unknown, BANGALORE,customer95@example.com,2732.97,1
+C096, amit kumar,25, BANGALORE,customer96@example.com,22786.84,
+C097, amit kumar,54,MUMBAI,customer97@example.com,3449.43,4.5
+C098,manish gupta ,20,hyderabad ,customer98@example.com,,4.5
+C099,KAVITA SHAH,52, CHENNAI,,4075.42,1
+C100,  rahul sharma,23,  delhi,customer100@example.com,16334.59,5
+C005,manish gupta ,44,hyderabad ,customer5@example.com,10820.97,4.5
+C020, amit kumar,42,mumbai ,customer20@example.com,8537.57,2
+C050,SNEHA KULKARNI ,58, pune,customer50@example.com,24812.56,4.5
+C075,manish gupta ,29, CHENNAI,customer75@example.com,13077.22,4.5
+C090, amit kumar,44,MUMBAI,customer90@example.com,2151.52,4.5
